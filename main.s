@@ -1,9 +1,8 @@
 ; File: main.s
- 
-; This file needs to be in a Keil version 5 project, together with file init.s,
-; for all CS 238 programming Home Assignments
 
-; This is a demo program, which you will need to change for each Home Assignment
+; This file needs to be in a Keil version 5 project
+
+; This is an ARM assembly program for Texas Instruments LM4F120H5QR hardware. It accepts input for a length and a width and then ; prints out the perimeter.
 
 ; Executable code in this file should start at label main
 
